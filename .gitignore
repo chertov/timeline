@@ -1,0 +1,16 @@
+*
+!*/
+!/lib/**/*.dart
+
+!/pubspec.yaml
+
+!/**/.gitignore
+
+!/README.md
+!/LICENSE
+
+pkg
+registry
+.idea
+build
+

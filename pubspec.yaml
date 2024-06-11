@@ -1,0 +1,13 @@
+name: timeline
+description: Timeline component.
+version: 0.0.1
+
+environment:
+  sdk: ">=3.1.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  tuple: ^2.0.0
+  todo: ^2.0.1
